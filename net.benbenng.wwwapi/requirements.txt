@@ -1,1 +1,4 @@
 flask
+python-sql
+mysql-connector
+redis
